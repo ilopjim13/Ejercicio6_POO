@@ -1,5 +1,3 @@
-package ejercicio6
-
 /** * Clase Domicilio
  * @param calle calle del domicilio
  * @param numero numero del domicilio

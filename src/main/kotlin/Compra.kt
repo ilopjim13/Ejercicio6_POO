@@ -1,5 +1,3 @@
-package ejercicio6
-
 /**
  * Clase Compra
  * @param cliente cliente que realizo la compra

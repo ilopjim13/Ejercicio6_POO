@@ -1,5 +1,3 @@
-package ejercicio6
-
 /**
  * Clase Cliente
  * @param nombre nombre del cliente
