@@ -4,5 +4,5 @@
  * @constructor Crea un domicilio con calle y numero
  */
 data class Domicilio(var calle: String, var numero: Int) {
-    fun dirCompleta() = "$calle $numero"
+    fun dirCompleta() = "${this.calle} ${this.numero}"
 }

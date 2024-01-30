@@ -5,4 +5,4 @@
  * @param monto monto de la compra
  * @constructor Crea una compra con cliente, dia y monto
  */
-data class Compra(var cliente: String, var dia: String, var monto: Int)
+data class Compra(var cliente: Cliente, var dia: Int, var monto: Double)

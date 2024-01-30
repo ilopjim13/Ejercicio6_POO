@@ -4,4 +4,4 @@
  * @param domicilio domicilio del cliente
  * @constructor Crea un cliente con nombre y domicilio
  */
-data class Cliente(var nombre: String, var domicilio: String)
+data class Cliente(var nombre: String, var domicilio: Domicilio)
